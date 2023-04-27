@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "A vida invisível de Eurídice Gusmão",
+      "author": "Clarice Lispector"
+    },
+    {
+      "id": 2,
+      "title": "A Arte da Guerra",
+      "author": "Sun Tzu"
+    },
+    {
+      "id": 3,
+      "title": "O Nome da Rosa",
+      "author": "Umberto Eco"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell"
+    },
+    {
+      "id": 5,
+      "title": "A Revolução dos Bichos",
+      "author": "George Orwell"
+    },
+    {
+      "id": 6,
+      "title": "Cem Anos de Solidão",
+      "author": "Gabriel García Márquez"
+    },
+    {
+      "id": 7,
+      "title": "O Apanhador no Campo de Centeio",
+      "author": "J.D. Salinger"
+    },
+    {
+      "id": 8,
+      "title": "O Processo",
+      "author": "Franz Kafka"
+    },
+    {
+      "id": 9,
+      "title": "A Metamorfose",
+      "author": "Franz Kafka"
+    },
+    {
+      "id": 10,
+      "title": "O Estrangeiro",
+      "author": "Albert Camus"
+    },
+    {
+      "id": 11,
+      "title": "O Príncipe",
+      "author": "Maquiavel"
+    },
+    {
+      "id": 12,
+      "title": "Guerra e Paz",
+      "author": "Liev Tolstói"
+    },
+    {
+      "id": 13,
+      "title": "Dom Quixote",
+      "author": "Miguel de Cervantes"
+    },
+    {
+      "id": 14,
+      "title": "O Grande Gatsby",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "id": 15,
+      "title": "A Montanha Mágica",
+      "author": "Thomas Mann"
+    },
+    {
+      "id": 16,
+      "title": "Em Busca do Tempo Perdido",
+      "author": "Marcel Proust"
+    },
+    {
+      "id": 17,
+      "title": "O Coração das Trevas",
+      "author": "Joseph Conrad"
+    },
+    {
+      "id": 18,
+      "title": "As Vinhas da Ira",
+      "author": "John Steinbeck"
+    },
+    {
+      "id": 19,
+      "title": "A Divina Comédia",
+      "author": "Dante Alighieri"
+    },
+    {
+      "id": 20,
+      "title": "O Homem Invisível",
+      "author": "H.G. Wells"
+    },
+    {
+      "id": 21,
+      "title": "As Crônicas de Nárnia",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 22,
+      "title": "O Senhor dos Anéis",
+      "author": "J.R.R. Tolkien"
+    }
+]
+  
